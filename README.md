@@ -1,1 +1,1 @@
-"# Dashboard-opdracht" 
+<img src="./afb/opdracht.jpg" alt="">
